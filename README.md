@@ -8,21 +8,21 @@ Download the files into a folder and start an http server, you can do `python -m
 index.html is the page that takes care of rendering the page.
 The project structure looks as below.
 
--index.html
-|
-|-- css
-|   |-- index.css
-|
-|-- js
-|    |__ index.js
-|    |
-|    |__ products.module.js
-|    |
-|    |--data
-|    |    |__ products.json
-|    |
-|    |__lib
-|        |__underscore.min.js
+-index.html<br>
+|<br>
+|-- css<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |-- index.css<br>
+|<br>
+|-- js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |__ index.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |__ products.module.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |--data<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |__ products.json<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |__lib<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__underscore.min.js<br>
 
 
 
