@@ -35,3 +35,8 @@ The project structure looks as below.
 
 Products are loaded when the DOM is loaded by making a `GET` call to the products.json file and loaded on the client as an array of objects in the module `products.module.js`.
 
+
+##Here's the screenshot of the app
+
+![screenshot](https://github.com/harshabhat86/ProductListExample_underscore/blob/master/screenshot.png)
+
